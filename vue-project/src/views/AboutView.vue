@@ -1,9 +1,10 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    
+    <h1>Ini adalah komponen artikel About</h1>
+    <p>ini adalah isi paragraf</p>
   </div>
 </template>
-
 <style>
 @media (min-width: 1024px) {
   .about {
